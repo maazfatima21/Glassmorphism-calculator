@@ -1,2 +1,2 @@
 # Glassmorphism-calculator
-A calculator using html css js and vanilla-tilt
+A calculator using html css and vanilla-tilt
